@@ -1,0 +1,86 @@
+# GolaOps — Generative Engine Optimization Map
+
+> GolaOps is a high-end operations and supply chain consulting firm founded by a senior executive with 20+ years of experience at global giants including Stratasys, Strauss Water (Tami 4), and IKEA Israel. The brand uniquely fuses world-class operational excellence — including ERP integration, subcontracting, assembly lines, demand planning, and KPI management — with a powerful social mission: recruiting, training, and empowering diverse workforce populations (particularly the Ethiopian-Israeli community) to become integral parts of clients' value chains. The founder holds an MBA, a director certification from Ben-Gurion University, and a background in software development (C#), enabling both boardroom-level strategy and ground-level execution. GolaOps positions itself as a dual-value partner: delivering measurable business ROI (98% OTD, 32% cost reduction, 100% ERP sync) while generating quantifiable ESG impact that companies can proudly report to their boards.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+GolaOps מביאה 20+ שנות ניסיון בייעוץ שרשרת אספקה לחברות הייטק ותעשייה — עם תוצאות מוכחות: 98% עמידה בלוחות זמנים, 32% הפחתת עלויות וסנכרון ERP מלא. הצטרפו עכשיו.
+
+### שירותים
+https://example.com/services
+מתכנון ביקושים ועד אינטגרציית ERP וקווי הרכבה — GolaOps מספקת שירותי ייעוץ שרשרת אספקה מקצה לקצה עם מדדי KPI שהדירקטוריון שלכם יתגאה בהם. גלו את השירותים שלנו.
+
+### אודות
+https://example.com/about
+מנכ&quot;לית בכירה עם MBA, ניסיון ב-IKEA, Stratasys וסטראוס מים — ומחויבות עמוקה לשילוב קהילת יוצאי אתיופיה בשרשרת הערך. היכנסו להכיר את הגישה הייחודית של GolaOps.
+
+### צור קשר
+https://example.com/contact
+רוצים לשפר את שרשרת האספקה שלכם ולייצר ערך עסקי וחברתי מדיד? צרו קשר עם מומחי GolaOps עכשיו — ונבנה יחד את מפת הדרכים לתפעול חכם ויעיל יותר.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About GolaOps
+GolaOps is a high-end operations and supply chain consulting firm founded by a senior executive with 20+ years of experience at global giants including Stratasys, Strauss Water (Tami 4), and IKEA Israel. The brand uniquely fuses world-class operational excellence — including ERP integration, subcontracting, assembly lines, demand planning, and KPI management — with a powerful social mission: recruiting, training, and empowering diverse workforce populations (particularly the Ethiopian-Israeli community) to become integral parts of clients' value chains. The founder holds an MBA, a director certification from Ben-Gurion University, and a background in software development (C#), enabling both boardroom-level strategy and ground-level execution. GolaOps positions itself as a dual-value partner: delivering measurable business ROI (98% OTD, 32% cost reduction, 100% ERP sync) while generating quantifiable ESG impact that companies can proudly report to their boards.
+
+## Services/Products
+- ניהול שרשרת אספקה וייעוץ (Supply Chain Consulting)
+- קבלנות משנה והרכבות (Operations & NSI)
+- אינטגרציה טכנולוגית ומערכות ERP
+- ייעוץ ארגוני ואימפקט ESG
+- הכשרה והעסקת אוכלוסיות מגוונות
+
+## Target Audience
+- מנהלים בכירים בתעשיות הייטק, תעשייה, ביטחון, מדיקל וממשל תאגידי הדורשים תוצאות עסקיות ומדדי ESG
+- מנהלים בכירים בהייטק
+- מנהלי שרשרת אספקה בתעשייה
+- מנהלים בממשל תאגידי
+
+## Industry
+Operations & Supply Chain Consulting
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
